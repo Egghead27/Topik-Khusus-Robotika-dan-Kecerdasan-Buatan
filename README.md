@@ -28,3 +28,20 @@ git clone https://github.com/Egghead27/Topik-Khusus-Robotika-dan-Kecerdasan-Buat
 ```
 
 ### 2. Install Dependency
+
+```bash
+pip install -r requirements.txt
+```
+
+## Cara Menjalankan 
+
+```bash
+python main.py
+```
+Pastikan jendela preview kamera aktif.
+
+### Kontrol
+| Key | Fungsi |
+|-----|--------|
+|**SPACE** / **ENTER**| Membaca teks yang berada dikamera (capture)|
+|**Q**| Keluar |
