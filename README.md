@@ -44,4 +44,5 @@ Pastikan jendela preview kamera aktif.
 | Key | Fungsi |
 |-----|--------|
 |**SPACE** / **ENTER**| Membaca teks yang berada dikamera (capture)|
+|**C**|Toggle Text Correction|
 |**Q**| Keluar |
